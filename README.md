@@ -34,7 +34,7 @@ I combine classic IT system integration with hands-on software and hardware deve
 
 ### 🚀 Featured Projects
 
-* **Automated Pet Treat Dispenser** – Custom development based on an **ESP32** with a TMC2209 stepper motor driver, Nema 17 motor, 433 MHz RF receiver, IR light barrier, and a custom-designed 3D-printed enclosure. 
+* **Pet Treat Dispenser** – Custom development based on an **ESP32** with a TMC2209 stepper motor driver, Nema 17 motor, 433 MHz RF receiver, IR light barrier, and a custom-designed 3D-printed enclosure. 
 <!--
 *(Link: [Insert repository])*
 -->
