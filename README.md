@@ -49,7 +49,7 @@ I combine classic IT system integration with hands-on software and hardware deve
 
 ### 🎯 Current Focus
 
-* 🔭 Deepening my knowledge in **network architecture, Linux/Windows administration, and SQL databases** as part of my retraining as an IT Specialist for System Integration.
+* 🔭 Deepening my knowledge in **network architecture, Linux/Windows administration, and SQL databases** as part of my retraining as an IT Specialist for System Integration at **Qualifizierungs Akademie Rhein Ruhr** (until July 2028).
 * 🤝 Open to an **IT internship** in the Dortmund area and exciting system integration or automation projects.
 <!--
 ---
