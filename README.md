@@ -64,7 +64,7 @@ I combine classic IT system integration with hands-on software and hardware deve
 
 * **Location:** Dortmund, Germany
 * **Email:** [lars.reder74@gmail.com](lars.reder74@gmail.com)
-* **Webauftritt:** [link](https://github.com/LR3500/LR3500/blob/gh-pages/index.html)
+* **Webauftritt:** [link](https://lr3500.github.io/LR3500/)
 <!--
 * **LinkedIn / Portfolio:** 
 [Your Link](https://linkedin.com/in/YOUR-PROFILE)
